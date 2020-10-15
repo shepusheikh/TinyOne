@@ -5,6 +5,7 @@
 }
 body {
   font-family: 'PT Sans', sans-serif;
+  overflow-x: hidden;
   color: #010101 !important;
 }
 /* header strat  */
